@@ -1,6 +1,6 @@
 # EmojiBattle
 
-**EmojiBattle** is a fun and interactive web-based game where players use different emojis to battle against each other. The game logic is implemented in JavaScript, and the project includes a clean, responsive layout styled with CSS.
+**EmojiBattle** is a fun and interactive web-based game where players use different emojis to battle against a robot. The game logic is implemented in JavaScript, and the project includes a clean, responsive layout styled with CSS.
 
 ## Features
 
@@ -11,7 +11,7 @@
 ## Demo 
 Download emojibattle-demo.zip to watch the project in action!
 
-![Emoji Battle Demo(./emojibattle.png)
+![Emoji Battle Demo](./emojibattle.png)
 
 ## File Structure
 
