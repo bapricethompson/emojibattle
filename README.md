@@ -11,7 +11,7 @@
 ## Demo 
 Download emojibattle-demo.zip to watch the project in action!
 
-[![Emoji Battle Demo](./emojibattlepng)]
+[![Emoji Battle Demo](./emojibattle.png)]
 
 ## File Structure
 
