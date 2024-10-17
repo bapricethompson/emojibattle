@@ -9,9 +9,9 @@
 - **Responsive design**: Styled with CSS to look great on any device.
 
 ## Demo 
-Download
+Download emojibattle-demo.zip to watch the project in action!
 
-[![Emoji Battle Demo](./emojibattle-demo.png)]
+[![Emoji Battle Demo](./emojibattlepng)]
 
 ## File Structure
 
