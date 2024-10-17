@@ -1,0 +1,190 @@
+#smiley {
+  cursor: pointer;
+  font-family: "Noto Color Emoji";
+  font-size: 100px;
+  user-select: none;
+}
+
+
+#emo2 {
+  cursor: pointer;
+  font-family: "Noto Color Emoji";
+  font-size: 100px;
+  user-select: none;
+  text-align:center;
+}
+
+#statusUser {
+  cursor: pointer;
+  font-family: "Noto Color Emoji";
+  font-size: 100px;
+  user-select: none;
+}
+
+#statusComp {
+  cursor: pointer;
+  font-family: "Noto Color Emoji";
+  font-size: 100px;
+  user-select: none;
+}
+body{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+main{
+  background-color: #F2ECD8;
+  min-width:80%;
+  border-radius: 15px;
+}
+
+#main{
+  display:flex;
+  justify-content: space-between;
+  text-align:center;
+}
+
+#choices{
+  display:flex;
+  justify-content: center;
+
+}
+
+#user{
+  margin: 50px;
+  padding:20px;
+  background-color: #BFAF8F;
+  width: 40%;
+  height:200px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;  /* Centers horizontally */
+  align-items: center; 
+}
+
+#computer{
+  margin: 50px;
+  padding:20px;
+  background-color: #BFAF8F;
+  width: 40%;
+  height:200px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;  /* Centers horizontally */
+  align-items: center; 
+}
+#start{
+  width:auto;
+  background-color: #BF8097;
+  height:auto;
+  border:none;
+  display: inline-block;
+  padding: 15px 32px;
+  text-align: center;
+  border-radius: 15px;
+  margin:10px;
+  color:white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#start:hover{
+  background-color: #a6808e;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#choices{
+  padding:10px;
+  margin:15px;
+  }
+
+#score{
+  padding-left:25px;
+  padding-right: 25px;
+  margin:auto;
+  padding-bottom:0px;
+  background-color: #71635D;
+  width:20%;
+  height: auto;
+  border-radius: 15px;
+  color:white;
+  display:flex;
+  justify-content: space-between;
+  text-align:center;
+
+}
+#score h1{
+  text-align:center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#scorecardUser{
+  margin-top:0px;
+  margin-bottom:0px;
+  padding-top:0px;
+  padding-bottom:15px;
+  font-size: 20px;
+}
+#scorecardUser span{
+  font-size: 40px;
+}
+
+#scorecardComp{
+  margin-top:0px;
+  margin-bottom:0px;
+  padding-top:0px;
+  padding-bottom:15px;
+  font-size: 20px;
+}
+
+#scorecardComp span{
+  font-size: 40px;
+}
+
+#opt1{
+  cursor: pointer;
+  font-family: "Noto Color Emoji";
+  font-size: 100px;
+  user-select: none;
+  margin:20px;
+
+}
+
+#opt2{
+  cursor: pointer;
+  font-family: "Noto Color Emoji";
+  font-size: 100px;
+  user-select: none;
+  margin:20px;
+
+}
+
+#opt3{
+  cursor: pointer;
+  font-family: "Noto Color Emoji";
+  font-size: 100px;
+  user-select: none;
+  margin:20px;
+
+}
+
+#userChoice{
+  display:none;
+  cursor: pointer;
+  font-family: "Noto Color Emoji";
+  font-size: 100px;
+  user-select: none;
+  margin:20px;
+}
+
+#compChoice{
+  display:none;
+  cursor: pointer;
+  font-family: "Noto Color Emoji";
+  font-size: 100px;
+  user-select: none;
+  margin:20px;
+}
